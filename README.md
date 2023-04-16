@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 
-<script async id="asciicast-GxZIvzbDGWpAShckhpQ0YwCJn" src="https://asciinema.org/a/GxZIvzbDGWpAShckhpQ0YwCJn.js"></script>
+[![asciicast](https://asciinema.org/a/GxZIvzbDGWpAShckhpQ0YwCJn.svg)](https://asciinema.org/a/GxZIvzbDGWpAShckhpQ0YwCJn)
