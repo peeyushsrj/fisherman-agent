@@ -53,12 +53,8 @@ def greet(name:str):
 
 ```
 
-
-### Exposing google sheet is public csv for import definition
-
-![1](./assets/1.png)
-![2](./assets/2.png)
-![3](./assets/3.png)
+**Note** - On how to make any excel sheet, as published to web as csv. Step 5-6
+here https://www.algolia.com/doc/tools/crawler/guides/enriching-extraction-with-external-data/how-to/expose-google-spreadsheet-as-csv/
 
 ## Use cases
 
